@@ -44,16 +44,16 @@
 **[Plataforma Corporativa com Microsserviços & Agendamento](LINK_DO_REPOSITORIO)**
 - Arquitetura baseada em microsserviços com autenticação independente e integração em tempo real com a API do Google Calendar.
 - **Tech Stack:** Python (FastAPI), Next.js, Docker, PostgreSQL.
-- [🔗 Ver Aplicação Rodando](https://frontend-nu-ten-o0g4esaurg.vercel.app/)[cite: 1]
+- [🔗 Ver Aplicação Rodando](https://frontend-nu-ten-o0g4esaurg.vercel.app/)
 
 **[Landing Page Corporativa de Alta Performance](LINK_DO_REPOSITORIO)**
 - Interface moderna e responsiva focada em alta conversão e otimização de performance.
 - **Tech Stack:** React, Tailwind CSS, Vercel.
-- [🔗 Ver Aplicação Rodando](https://landing-page-advogado-gray.vercel.app/)[cite: 1]
+- [🔗 Ver Aplicação Rodando](https://landing-page-advogado-gray.vercel.app/)
 
 ---
 
 ### 📫 Como me encontrar
 
-- 💼 **LinkedIn:** [linkedin.com/in/guilherme-brito-souza](https://www.linkedin.com/in/guilherme-brito-souza/)[cite: 3]
+- 💼 **LinkedIn:** [linkedin.com/in/guilherme-brito-souza](https://www.linkedin.com/in/guilherme-brito-souza/)
 - 📧 **E-mail:** guilhermebritodesouza2308@gmail.com
